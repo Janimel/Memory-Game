@@ -3,14 +3,14 @@ import './App.css';
 import Card from './components/card'
 
 const cardImage = [
-  {"src": "/image/aus.png", matched: false},
-  {"src": "/image/brit.png", matched: false},
-  {"src": "/image/denmark.png", matched: false},
-  {"src": "/image/england.png", matched: false},
-  {"src": "/image/japan.png", matched: false},
-  {"src": "/image/phl.png", matched: false},
-  {"src": "/image/swiss.png", matched: false},
-  {"src": "/image/vatican.png", matched: false}
+  {"src": "/image/Architecture.png", matched: false},
+  {"src": "/image/Engineering.png", matched: false},
+  {"src": "/image/FineArts.png", matched: false},
+  {"src": "/image/IICS.png", matched: false},
+  {"src": "/image/Law.png", matched: false},
+  {"src": "/image/MedAndSurgery.png", matched: false},
+  {"src": "/image/Music.png", matched: false},
+  {"src": "/image/Science.png", matched: false}
 ]
 
 function App() {
